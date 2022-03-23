@@ -53,7 +53,7 @@ ArrayList<Hospital> HL = new ArrayList<>();
 			}
 		}
 		if(temp == 0) {
-			System.out.println("Movie not found");
+			System.out.println("Hospital not found");
 		}
 
 	}
@@ -67,7 +67,7 @@ ArrayList<Hospital> HL = new ArrayList<>();
 			}
 		}
 		if(temp == 0) {
-			System.out.println("Movie not found");
+			System.out.println("Hospital not found");
 		}
 		
 	}
